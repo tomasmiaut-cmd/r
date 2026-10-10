@@ -15,4 +15,4 @@ scrape_configs:
     metrics_path: /metrics
     static_configs:
       - targets:
-          - "r-1-9hcn.onrender.com"
+          - "login-proyecto-8adt.onrender.com"
